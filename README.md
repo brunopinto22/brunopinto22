@@ -10,7 +10,7 @@ Going to learn:
 
 Even tho i love coding I have hobbies like drawing and 3D Modeling. Check out my ig account: @pintoiguess
 
-U can Follow me in:
+You can Follow me in:
 
 📷 Intagram: @bruno.pinto.bp.20 || @pintoiguess
 🤖 Discord: Pinto#3051
