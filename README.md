@@ -1,6 +1,6 @@
 Hi I'm Bruno Pinto a Computer Engineering Major Student in ISEC (Portugal- Coimbra)
 
-I currently work know/work with:
+I currently know/work with:
   - C
   - HTML, CSS, JS + Bootstrap and React
 
