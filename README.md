@@ -2,6 +2,7 @@ Hi I'm Bruno Pinto a Computer Engineering Major Student in ISEC (Portugal- Coimb
 
 I currently know/work with:
   - C
+  - C++
   - HTML, CSS, JS + Bootstrap and React
 
 Going to learn:
