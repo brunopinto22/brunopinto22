@@ -13,5 +13,5 @@ Even tho i love coding I have hobbies like drawing and 3D Modeling. Check out my
 
 You can Follow me in:
 
-📷 Intagram: @bruno.pinto.bp.20 || @pintoiguess
+📷 Intagram: @bruno.pinto.bp.20
 🤖 Discord: Pinto#3051
