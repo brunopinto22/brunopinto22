@@ -2,28 +2,21 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=e1e1e1&size=35&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Bruno+Pinto;Welcome!+:%29)](https://git.io/typing-svg)
 
-<div>
+<div align="left">
   <a href="https://github.com/brunopinto22">
-  <img width="100%" height="200em" src="https://github-readme-stats.vercel.app/api?username=brunopinto22&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=fed259&text_color=e1e1e1&icon_color=ff4e7a&border_radius=10&count_private=true&custom_title=My%20%Github%20%Stats"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=brunopinto22&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=fed259&text_color=e1e1e1&icon_color=ff4e7a&border_radius=10&count_private=true&custom_title=My%20%Github%20%Stats"/>
 </div>
 
 ##
-
-### I Know:
+  
 <div>
   <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+  <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
   <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</div>
-
-### Learning / Going to Learn:
-<div>
-  <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
-  <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  
 </div>
 
 ##
