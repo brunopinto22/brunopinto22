@@ -23,7 +23,7 @@
   
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=brunopinto22&bg_color=00000000&color=e1e1e190&title_color=fed259&line=ff4e7a6e&point=ff4e7aa9&area=true&hide_border=true&custom_title=Contributions%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div> 
+<div align="center"> 
   <a href="https://instagram.com/bruno.pinto.20" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/users/561281835561123870" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:bruno.pinto.pr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
