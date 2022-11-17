@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/brunopinto22">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=brunopinto22&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=fed259&text_color=e1e1e1&icon_color=ff4e7a&border_radius=10&count_private=true&custom_title=My%20%Github%20%Stats"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopinto22&layout=compact&langs_count=7&theme=transparent&hide_border=true&title_color=fed259&text_color=e1e1e1&icon_color=ff4e7a&border_radius=10"/>
+  <img width="50vh" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopinto22&layout=compact&langs_count=7&theme=transparent&hide_border=true&title_color=fed259&text_color=e1e1e1&icon_color=ff4e7a&border_radius=10"/>
 </div>
 
 ##
