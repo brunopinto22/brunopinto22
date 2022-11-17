@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4e7a,100:fed259&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4e7a,100:fed259&height=150&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=e1e1e1&size=35&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Bruno+Pinto;Welcome!+:%29)](https://git.io/typing-svg)
 
