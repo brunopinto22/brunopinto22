@@ -18,7 +18,6 @@
   <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
   <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="right" alt="Profile Pic" height="100em" width="100em" style="border-radius:10px;" src="pfp.png">
 </div>
 
 ### Learning / Going to Learn:
