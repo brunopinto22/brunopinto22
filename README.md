@@ -1,9 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4e7a,100:fed259&height=120&section=header"/>
+<br><br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=e1e1e1&size=35&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Bruno+Pinto;Welcome!+:%29)](https://git.io/typing-svg)
+<br><br><br><br>
+### Languages&Tools
 
-##
-  
 <div>
   <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
@@ -12,6 +13,9 @@
   <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
   <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+  <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" />
 </div>
 
 ##
