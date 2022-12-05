@@ -20,7 +20,7 @@
 
 ##
   
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=brunopinto22&bg_color=00000000&color=e1e1e190&title_color=fed259&line=ff4e7a6e&point=ff4e7aa9&area=true&hide_border=true&custom_title=Contributions%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=brunopinto22&bg_color=00000000&color=e1e1e190&title_color=fed259&line=ff4e7a6e&point=ff4e7aa9&area=true&hide_border=true&custom_title=Contributions%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> 
   <a href="https://instagram.com/bruno.pinto.20" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
