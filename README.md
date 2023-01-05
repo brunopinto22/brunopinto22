@@ -4,37 +4,28 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=e1e1e1&size=35&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Bruno+Pinto;Student+@+ISEC;Welcome!+:%29)](https://git.io/typing-svg)
 <br><br><br><br>
 
-<table border="0" style="width: 100%;">
+<table style="width: 100%;">
   <tr>
     <td><b>Languages</b></td>
     <td><b>Tools</b></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td>
+      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
+      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+    </td>
+    <td>
+      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" />
+      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+    </td>
   </tr>
 </table>
-
-<div style="align: left; width:50%">
-
- 
-
-  <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-  <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
-  <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-</div>
-<div style="align: right; width:50%; text-align: right;">
-
-  ### Tools
-
-  <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" />
-  <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-</div>
 
 ##
   
