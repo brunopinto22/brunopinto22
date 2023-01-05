@@ -5,7 +5,7 @@
 <br><br><br><br>
 
 
-<div style="float: left;">
+<div style="align: left;">
 
   ### Languages
 
@@ -16,7 +16,7 @@
   <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
   <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 </div>
-<div style="float: right; text-align: right;">
+<div style="align: right; text-align: right;">
 
   ### Tools
 
