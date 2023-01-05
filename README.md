@@ -4,10 +4,20 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=e1e1e1&size=35&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Bruno+Pinto;Student+@+ISEC;Welcome!+:%29)](https://git.io/typing-svg)
 <br><br><br><br>
 
+<table border="0" style="width: 100%;">
+  <tr>
+    <td><b>Languages</b></td>
+    <td><b>Tools</b></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 <div style="align: left; width:50%">
 
-  ### Languages
+ 
 
   <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
