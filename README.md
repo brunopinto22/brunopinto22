@@ -33,7 +33,5 @@
   <br>
   <br>
   <img alt="" src="https://img.shields.io/github/repo-size/brunopinto22/brunopinto22" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/brunopinto22/brunopinto22" /> 
-
-  ![](https://komarev.com/ghpvc/?username=brunopinto22)
  
 </div>
